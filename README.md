@@ -1,65 +1,57 @@
-# C-basic
-1. Beginner Projects:
+# 💻 MaticDev  
 
-3.     Calculator
-4.     Temperature Converter
-5.     Prime Number Checker
-6.     Word Counter
-7.     Guess the Number Game
-8.     Array Sorting (Bubble Sort, QuickSort, etc.)
-9.     Caesar Cipher
-10.     Random Number Generator
-11.     File Handling (Read/Write)
-12.     Number Conversion (Decimal, Binary, Hexadecimal, etc.)
+## 🔧 Our Technologies & Tools  
 
- Intermediate Projects:
+---
 
-16.     Tic-Tac-Toe Game
-17.     Binary Search Algorithm
-18.     Stack and Queue Implementation
-19.     To-Do List (Task Manager)
-20.     Unit Converter
-21.     Calendar Display
-22.     Pointer and Dynamic Memory Allocation
-23.     Tower of Hanoi (Recursive Solution)
-24.     Singly and Doubly Linked List Implementation
-25.     Fibonacci Sequence (Recursive and Iterative)
+## 🖥️ Languages  
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50"/>
+</p>
 
- Advanced Projects:
+---
 
-29.     Snake Game (Console-Based)
-30.     Text Analyzer (Word Frequency)
-31.     Ticket Booking System
-32.     Library Management System
-33.     Chess Game (Text-Based)
-34.     Statistical Data Analysis (Mean, Median, Standard Deviation)
-35.     Simple Text Editor
-36.     Client-Server Communication (Sockets)
-37.     Port Scanner
-38.     Student Management System
+## 📚 Frameworks & Libraries  
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50"/>
+  <img src="https://spring.io/favicon.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50"/>
+  <img src="https://cdn.modrinth.com/data/P7dR8mSH/icon.png" width="50"/>
+  <img src="https://avatars.githubusercontent.com/u/6250754?s=48&v=4" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" width="50"/>
+</p>
 
- Algorithm & AI Projects:
+---
 
-42.     Dijkstra’s Algorithm (Shortest Path in Graphs)
-43.     Kruskal’s Algorithm (Minimum Spanning Tree)
-44.     Minimax Algorithm (Tic-Tac-Toe AI)
-45.     Artificial Neural Network (Simple Perceptron)
-46.     Heap Sort Algorithm
-47.     Pattern Matching in Text (KMP, Boyer-Moore)
-48.     Binary Search Tree (BST) Operations
-49.     DNA Sequence Analysis
-50.     Knapsack Problem (Dynamic and Greedy Approach)
-51.     Cellular Automata (Conway’s Game of Life)
-52. 
-53. System & Low-Level Programming Projects:
-54. 
-55.     Memory Manager (Dynamic Allocation)
-56.     CPU Emulator (CHIP-8, etc.)
-57.     File System Implementation (FAT)
-58.     Shell (Mini Command Interpreter)
-59.     Network Packet Sniffer
-60.     Basic Operating System Kernel
-61.     Inter-Process Communication (IPC)
-62.     Real-Time Clock Display
-63.     Process Manager (System Process Monitor)
-64.     Data Compression (Huffman Encoding)
+## 🛠️ Tools  
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="50"/>
+</p>
+
+---
+
+## 🖥️ Operating Systems  
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="60"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F1vus&theme=tokyonight" alt="git streak"/>
+</p>
